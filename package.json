@@ -1,0 +1,12 @@
+{
+  "name": "praxis-laboratory-api",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A free web service for developers to interact with Praxis Laboratory's real-time data.",
+  "author": "Keegan Skeate <keegan.skeate.fsd@gmail.com>",
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "license": "GPLv3"
+}
