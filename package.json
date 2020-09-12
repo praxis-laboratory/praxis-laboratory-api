@@ -6,7 +6,7 @@
   "author": "Keegan Skeate <keegan.skeate.fsd@gmail.com>",
   "scripts": {},
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "license": "GPLv3"
 }
